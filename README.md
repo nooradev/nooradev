@@ -27,4 +27,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noora-alblawi)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nooraalblwe@gmail.com)
-[![GitHub Portfolio](https://img.shields.io/badge/-My%20Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white)](https://noorax2.github.io/portfolio/)
+[![GitHub Portfolio](https://img.shields.io/badge/-My%20Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white)](https://nooradev.github.io/portfolio/)
